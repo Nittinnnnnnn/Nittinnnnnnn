@@ -1,5 +1,21 @@
 # 💫 About Me:
-I’m currently working on<br><br>End-to-end Market Data Engineering Pipeline (Python, Pandas, SQL, FastAPI)<br><br>Data ingestion, validation, and analytics on financial datasets (stocks/crypto)<br><br>C++ DSA practice on LeetCode.<br><br>I’m looking to collaborate on<br><br>FinTech projects: market data pipelines, trading analytics, risk metrics<br><br>Backend APIs for financial applications (Node.js / FastAPI)<br><br>Open-source data engineering or quantitative tooling<br><br>I’m looking for help with<br><br>System design for scalable financial data systems<br><br>Optimizing ETL pipelines and database performance<br><br>Interview-level DSA and low-latency backend concepts<br><br>I’m currently learning<br><br>Advanced SQL for analytics and reporting<br><br>Data Engineering fundamentals (ETL, schema design, incremental loads)<br><br>C++ for DSA; Python for data and ML basics<br><br>Financial markets, instruments, and data sources<br><br>Ask me about<br><br>Building data pipelines for market data<br><br>Python (Pandas, NumPy), SQL<br><br>C++ DSA problem-solving<br><br>FinTech fundamentals and analytics use cases<br><br>Fun fact<br><br>I track markets and code daily, aiming to break into a FinTech role with strong data and backend skills.<br><br>If you want this tuned for a specific FinTech role (quant dev, data engineer, backend), say which one.
+I’m currently working on
+Market data pipelines, FinTech projects, C++ DSA
+
+I’m looking to collaborate on
+FinTech, data engineering, backend systems
+
+I’m looking for help with
+System design, ETL optimization, DSA interviews
+
+I’m currently learning
+SQL, data engineering, financial markets
+
+Ask me about
+Python, SQL, C++ DSA, FinTech basics
+
+Fun fact
+I code daily and follow financial markets closely
 
 
 ## 🌐 Socials:
