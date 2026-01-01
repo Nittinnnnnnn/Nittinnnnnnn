@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on
 Market data pipelines, FinTech projects, C++ DSA
 
